@@ -51,8 +51,6 @@ The model successfully segments various vehicle parts with high accuracy, as sho
 ## Contributing
 Feel free to contribute by improving the model or dataset.
 
-## License
-This project is open-source and available under the MIT License.
 
 ---
 ### Author: Muhammad Rizwan
