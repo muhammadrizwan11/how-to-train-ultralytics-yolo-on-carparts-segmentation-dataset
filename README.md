@@ -39,7 +39,8 @@ This project demonstrates how to train **YOLOv11** for **vehicle spare parts seg
 
 ## Results
 The model successfully segments various vehicle parts with high accuracy, as shown in **predicted.png**.
-!(predicted.png)
+
+![image](predicted.png)
 
 
 ## Applications
